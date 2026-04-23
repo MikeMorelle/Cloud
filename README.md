@@ -74,7 +74,7 @@ Ziel: Eigenes Object Detection Modell
 
 Aufgaben:
 - Datensammlung (Kamera / Cloud wie Roboflow)
-- Labeling & Training (YOLO / TensorFlow)
+- Labeling & Training (YOLOv8 / TensorFlowLite)
 
 Verantwortlich:
 Michael 
