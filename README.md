@@ -77,7 +77,7 @@ Aufgaben:
 - Labeling & Training (YOLOv8 / TensorFlowLite)
 
 Verantwortlich:
-Michael 
+Michael/Lorenz
 
 # Milestone 7: Backend & Storage Cluster
 
