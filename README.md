@@ -89,7 +89,7 @@ Aufgaben:
 - API (REST / MQTT)
 
 Verantwortlich:
-Algis, Hichan, Ibrahim, Mohammed
+Algis, Hichan, Ibrahim, Mohammed, Deniz
 
 # Milestone 8: Frontend Entwicklung
 
@@ -100,7 +100,7 @@ Aufgaben:
 - Anzeige von Logs, Events, Bildern
 
 Verantwortlich:
-Algis, Ibrahim, Chris, Mohammed
+Algis, Ibrahim, Chris, Mohammed, Deniz
 
 # Milestone 9: Telegram Bot Integration
 
