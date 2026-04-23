@@ -1,14 +1,14 @@
 # Cloud Roadmap – Edge AI & Raspberry Pi Cluster
-
-Ungefährer Zeitplan:
+_____________________________________________________________________
+# Ungefährer Zeitplan:
 1. Grundlagen & Setup (Woche 1-3)
 2. Cluster & PXE Boot (Woche 4-6)
 3. HPC & MPI (Woche 7-9)
 4. AI Training & Backend (Woche 10-11)
 5. Frontened & Integration (Woche 12-13)
 6. Testing, Doku & Demo (Woche 14)
-
-Milestone 1: Sensor Nodes & Object Detection Setup 
+______________________________________________________________________
+# Milestone 1: Sensor Nodes & Object Detection Setup 
 
 Ziel: Funktionsfähige Edge-Knoten mit Kamera & AI-Inferenz
 
@@ -22,7 +22,7 @@ Verantwortlich:
 Algis
 Michael
 
-Milestone 2: Performance Benchmark (HPL)
+# Milestone 2: Performance Benchmark (HPL)
 
 Ziel: Messung der Clusterleistung in GFLOPS
 
@@ -33,7 +33,7 @@ Aufgaben:
 Verantwortlich:
 Chris
 
-Milestone 3: MPI Cluster Setup & Skalierung
+# Milestone 3: MPI Cluster Setup & Skalierung
 
 Ziel: Aufbau eines verteilten Clusters
 
@@ -46,7 +46,7 @@ Aufgaben:
 Verantwortlich:
 Algis
 
-Milestone 4: Amdahl & Gustafson (Non-MPI)
+# Milestone 4: Amdahl & Gustafson (Non-MPI)
 
 Ziel: Vergleich paralleler Skalierung ohne MPI
 
@@ -57,7 +57,7 @@ Aufgaben:
 Verantwortlich:
 Algis
 
-Milestone 5: Monitoring & Observability
+# Milestone 5: Monitoring & Observability
 
 Ziel: Systemüberwachung aller Nodes
 
@@ -68,7 +68,7 @@ Aufgaben:
 Verantwortlich:
 Hichan, Ibrahim, Deniz, Mohammed
 
-Milestone 6: Datensammlung & Modelltraining
+# Milestone 6: Datensammlung & Modelltraining
 
 Ziel: Eigenes Object Detection Modell
 
@@ -79,7 +79,7 @@ Aufgaben:
 Verantwortlich:
 Michael 
 
-Milestone 7: Backend & Storage Cluster
+# Milestone 7: Backend & Storage Cluster
 
 Ziel: Skalierbares Backend-System
 
@@ -91,7 +91,7 @@ Aufgaben:
 Verantwortlich:
 Algis, Hichan, Ibrahim, Mohammed
 
-Milestone 8: Frontend Entwicklung
+# Milestone 8: Frontend Entwicklung
 
 Ziel: Visualisierung & Dashboard
 
@@ -102,7 +102,7 @@ Aufgaben:
 Verantwortlich:
 Algis, Ibrahim, Chris, Mohammed
 
-Milestone 9: Telegram Bot Integration
+# Milestone 9: Telegram Bot Integration
 
 Ziel: Echtzeit-Benachrichtigungen
 
