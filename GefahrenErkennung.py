@@ -46,9 +46,9 @@ def send_alert(message):
         print("ALARM SPAM VERHINDERT")
         return
     #Telegram Bot API aufrufen
-    url = "https://api.telegram.org/bot8358523968:AAH43qZhtvkxW8FVYAaf-NKjxaoG2kQl9c4/sendMessage"
+    url = "***"    #eigen erstellen
     data = {
-        "chat_id": "8765793935",
+        "chat_id": "***",
         "text": message
     }
     requests.post(url, data=data)
